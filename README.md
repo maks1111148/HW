@@ -1,6 +1,7 @@
 # Simple-REP
 
 [![Github All Releases](https://img.shields.io/github/downloads/maks1111148/Simple-REP/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/xmrig/xmrig/releases)
 
 This is a simple hardware monitor written on python3 using psutil library. All you need is a docker image launch with "mem" or "cpu" argument. The script demonstrates the main load parameters of your system.
 
