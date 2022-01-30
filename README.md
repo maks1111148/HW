@@ -1,4 +1,4 @@
-# Simple-REP
+# HW
 
 [![Github All Releases](https://img.shields.io/github/downloads/maks1111148/Simple-REP/total.svg)]()
 [![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/xmrig/xmrig/releases)
