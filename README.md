@@ -15,6 +15,3 @@ Hardware-monitor is a light, open source utility, developed for open-source oper
 
 ## Contacts
 * 1makskharchenko1@gmail.com
-
-## Donations
-* XMR: `45pJonnKB416dvQtykBrCAd8cR5BQ4nyHFfcUwzVhz37YiNt6X2zKP4HubZoVF2vLjghZ4wevDEQibekkewmvsbJHRZgNgh`
